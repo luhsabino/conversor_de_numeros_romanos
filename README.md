@@ -1,1 +1,3 @@
-# conversor_de_numeros_romanos
+# Conversor de números Romanos
+
+Converte números normais para números romanos.
